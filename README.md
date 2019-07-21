@@ -2,7 +2,7 @@
 
 ## Project Name: LAB 14 Data Modeling and API server
 
-### Author: Author
+### Author: Ai
 
 ### Links and Resources
 * [repo](https://github.com/)
@@ -11,7 +11,8 @@
 * [back-end](https://.herokuapp.com/)
 
 #### Documentation
-* [swagger](https://herokuapp.com/doc)
+* [swagger](https://herokuapp.com/doc) mlabmongo db
+
 
 ### Modules
 #### categories-schema.js
@@ -58,3 +59,5 @@ Running Mongo:
 * What assertions need to be / should be made?
 * * Assertions need to be made for the /products route to check categories 
 
+### UML
+![flowchart of this app]('./img/IMG_7746.JPG')
