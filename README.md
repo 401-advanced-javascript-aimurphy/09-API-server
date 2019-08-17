@@ -6,7 +6,7 @@
 
 ### Links and Resources
 * [repo](https://github.com/)
-* [![Build Status](https://www.travis-ci.com/hingham/14-orm-and-modeling.svg?branch=master)](https://www.travis-ci.com/)
+* [![Build Status](https://travis-ci.com/401-advanced-javascript-aimurphy/09-API-server.svg?branch=master)](https://travis-ci.com/401-advanced-javascript-aimurphy/09-API-server)
 * [back-end](https://apm-lab09-api.herokuapp.com/docs/)
 
 #### Documentation
