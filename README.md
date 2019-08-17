@@ -7,11 +7,10 @@
 ### Links and Resources
 * [repo](https://github.com/)
 * [![Build Status](https://www.travis-ci.com/hingham/14-orm-and-modeling.svg?branch=master)](https://www.travis-ci.com/)
-* [Travis link](https://www.travis-ci.com/g)
-* [back-end](https://.herokuapp.com/)
+* [back-end](https://apm-lab09-api.herokuapp.com/docs/)
 
 #### Documentation
-* [swagger](https://herokuapp.com/doc) mlabmongo db
+* [swagger](https://app.swaggerhub.com/apis/aimurphyii/lab06api/0.1#/)
 
 
 ### Modules
