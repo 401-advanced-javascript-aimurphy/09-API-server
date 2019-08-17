@@ -59,4 +59,4 @@ Running Mongo:
 * * Assertions need to be made for the /products route to check categories 
 
 ### UML
-![flowchart of this app]('./img/IMG_7746.JPG')
+![flowchart of this app](img/IMG_7746.JPG)
