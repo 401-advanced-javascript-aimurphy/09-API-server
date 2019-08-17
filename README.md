@@ -5,12 +5,12 @@
 ### Author: Ai
 
 ### Links and Resources
-* [repo](https://github.com/)
-* [![Build Status](https://www.travis-ci.com/hingham/14-orm-and-modeling.svg?branch=master)](https://www.travis-ci.com/)
-* [back-end](https://apm-lab09-api.herokuapp.com/docs/)
+* [github repo](https://github.com/401-advanced-javascript-aimurphy/09-API-server/)
+* [![Build Status](https://travis-ci.com/401-advanced-javascript-aimurphy/09-API-server.svg?branch=master)](https://travis-ci.com/401-advanced-javascript-aimurphy/09-API-server)
+* [back-end:heroku](https://apm-lab09-api.herokuapp.com/docs/)
 
 #### Documentation
-* [swagger](https://app.swaggerhub.com/apis/aimurphyii/lab06api/0.1#/)
+* [swagger API](https://app.swaggerhub.com/apis/aimurphyii/lab06api/0.1#/)
 
 
 ### Modules
