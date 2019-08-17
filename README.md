@@ -5,12 +5,12 @@
 ### Author: Ai
 
 ### Links and Resources
-* [repo](https://github.com/)
+* [github repo](https://github.com/401-advanced-javascript-aimurphy/09-API-server/)
 * [![Build Status](https://travis-ci.com/401-advanced-javascript-aimurphy/09-API-server.svg?branch=master)](https://travis-ci.com/401-advanced-javascript-aimurphy/09-API-server)
-* [back-end](https://apm-lab09-api.herokuapp.com/docs/)
+* [back-end:heroku](https://apm-lab09-api.herokuapp.com/docs/)
 
 #### Documentation
-* [swagger](https://app.swaggerhub.com/apis/aimurphyii/lab06api/0.1#/)
+* [swagger API](https://app.swaggerhub.com/apis/aimurphyii/lab06api/0.1#/)
 
 
 ### Modules
@@ -59,4 +59,4 @@ Running Mongo:
 * * Assertions need to be made for the /products route to check categories 
 
 ### UML
-![flowchart of this app](/img/IMG_7746.JPG)
+![flowchart of this app](img/IMG_7746.JPG)
